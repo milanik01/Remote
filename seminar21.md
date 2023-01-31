@@ -7,6 +7,8 @@
 
 ## Второй блок текста
 
+
+* ** Second text again
 * ** Second text
 
 ## Третий блок текста
