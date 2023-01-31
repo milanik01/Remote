@@ -5,4 +5,7 @@
 * ** git Branch_branchname  - команда инициализирующая ветку с именем branchname 
 
 ## Branch merging
+
+* ** git merge branch_name команда сливающая ветки
+
 ## Conflict
