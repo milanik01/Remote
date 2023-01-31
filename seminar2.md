@@ -7,5 +7,5 @@
 ## Branch merging
 
 * ** git merge branch_name команда сливающая ветки
-
+* ** git  branch -d brunch_name команда удаляет ветку
 ## Conflict
